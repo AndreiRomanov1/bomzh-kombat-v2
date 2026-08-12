@@ -2,3 +2,5 @@ node_modules/
 dist/*.bak
 *.bak
 .DS_Store
+gh-pages-index.html
+gh-single.html
